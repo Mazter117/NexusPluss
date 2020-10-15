@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<color name="colorPrimary">#8BC34A</color>
+<color name="colorPrimaryDark">303F9F</color>
+<color name="colorAccent">#7CB342</color>
+<color name="dark_green">#689F38</color>
+<color name="green">#558B2F</color>
+
+<color name="login_form_details">#7CB342</color>
+<color name="login_form_details_light">#558B2F</color>
+<color name="login_form_details_medium">#689F38</color>
+</resources>
